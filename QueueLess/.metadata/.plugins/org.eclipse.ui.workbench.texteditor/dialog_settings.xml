@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="&lt;meta http-equiv=&quot;refresh&quot; content=&quot;20&quot;&gt;"/>
+			<item value=".card h2 {"/>
+			<item value="COLLECTED"/>
+			<item value="&lt;c:forEach var=&quot;s&quot; items=&quot;PLACED,PREPARING,READY,COLLECTED&quot;&gt;"/>
+		</list>
+	</section>
+</section>
